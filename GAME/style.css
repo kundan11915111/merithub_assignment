@@ -1,0 +1,14 @@
+.question{
+    display:inline;
+    padding-left: 40px;
+    border: brown;
+    font-size: x-large;
+    font-style: oblique;
+}
+.answer{
+    font-style: normal;
+    font-size: x-large;
+}
+.hide{
+    display:none;
+}
